@@ -38,5 +38,4 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>  
    
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Snake animation](https://github.com/raphael-caninde/raphael-caninde/blob/output/github-contribution-grid-snake.svg)   
  
