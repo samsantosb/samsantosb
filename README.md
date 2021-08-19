@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  <div style="display: flex">
   <a href="https://github.com/raphael-caninde">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samsantosb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsantosb&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsantosb&layout=compact&langs_count=7&theme=merko"/>
  </div>
  
  <h2>Skills:</h2>
