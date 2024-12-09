@@ -1,7 +1,7 @@
 # 👋 Hi ! My name is **Samuel**, ppl call me Sam.
 
 - **Tech Lead** | **Node.js Specialist** | **Educator**  
-- 🚀 Passionate about creating educational content, documentation, functional JS/TS and Software Architecture.  
+- 🚀 I usually create ducational content, tech docs, and talk about functional JS/TS and Software Architecture.  
 - 📍 Belo Horizonte, MG, Brazil | 31 years old  
 
 ## 📬 **Contact**
