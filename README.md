@@ -1,4 +1,4 @@
-# 👋 Hi ! My name is **Samuel**, ppl call me Sam.
+# 👋 Hi ! My name is **Samuel**.. People call me Sam.
 
 - **Tech Lead** | **Node.js Specialist** | **Educator**  
 - 🚀 I usually create ducational content, tech docs, and talk about functional JS/TS and Software Architecture.  
