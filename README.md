@@ -2,7 +2,7 @@
 
 - **Tech Lead** | **Node.js Specialist** | **Educator**  
 - 🚀 I usually create ducational content, tech docs, and talk about functional JS/TS and Software Architecture.  
-- 📍 Belo Horizonte, MG, Brazil | 31 years old  
+- 📍 Belo Horizonte, MG, Brazil | 32 years old  
 
 ## 📬 **Contact**
 
